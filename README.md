@@ -5,17 +5,17 @@
 ## 用法（影视仓）
 
 1. 打开影视仓 → 设置 → **配置地址** → 添加
-2. 粘贴：
+2. 粘贴（首选）：
    ```
    https://gh-proxy.com/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/tvbox.json
    ```
-   或（gh-proxy 挂掉时的备选）：
+   备选（gh-proxy 挂掉时换）：
    ```
-   https://github.moeyy.xyz/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/tvbox.json
+   https://raw.githubusercontent.com/hejm2000/tvbox-source/main/tvbox.json
    ```
 3. 保存后影视仓会自动拉取，首页出现 8 条线路，可任意切换。
 
-> 仓库是私有的，raw 直链对未登录用户 404，所以必须走 gh-proxy 类加速域名（它们匿名代拉）。
+> 本仓库为公共仓库（内容只有配置链接，无敏感信息），raw 直链匿名可访问。
 
 ## 内置线路（导入时均实测可达）
 
