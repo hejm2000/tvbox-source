@@ -1,7 +1,9 @@
 {
   "spider": [
-    "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar",
-    "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/jar/fm.jar"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/jar/pg.jar",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/jar/custom_spider.jar",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/jar/fm.jar",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/hejm2000/tvbox-source/main/jar/candymuj.jar"
   ],
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "lives": [
@@ -123,8 +125,7 @@
       "ext": {
         "token": "影視天下第一",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-      },
-      "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+      }
     },
     {
       "key": "csp_CandyMuj_yinfans",
@@ -3640,8 +3641,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7"
+      "filterable": 1
     },
     {
       "key": "小湿妹",
